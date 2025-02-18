@@ -29,8 +29,8 @@ Note: End goal being 0 manual efforts, the current code is still a WIP.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/api-test-case-generator.git
-    cd api-test-case-generator
+    git clone https://github.com/balrajhd/infsvc-h2025-genai-api-bdd-test-code-generator.git
+    cd infsvc-h2025-genai-api-bdd-test-code-generator
     ```
 
 2. **Install dependencies**:
