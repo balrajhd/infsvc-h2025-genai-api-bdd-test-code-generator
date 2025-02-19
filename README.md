@@ -110,3 +110,7 @@ If something goes wrong while generating the test cases, the application will re
     "error": "Failed to generate test cases"
 }
 ```
+
+## Other Resources
+- [REQRES](https://reqres.in/)
+- [JSON to JSON Schema Converter](https://transform.tools/json-to-json-schema)
