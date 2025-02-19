@@ -168,3 +168,10 @@ setup_env.sh
 #.idea/
 
 logging.yaml
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
