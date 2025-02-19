@@ -3,6 +3,8 @@
 This project is a web application designed to generate API test cases based on input specifications such as HTTP method, endpoint, request body, and schema. It integrates with AWS Bedrock to generate the necessary test files and provides a downloadable zip of the test case files. The generated test case files are tailored for a specific framework and language and are ready to run immediately, reducing manual effort and streamlining the API test automation process.
 Note: End goal being 0 manual efforts, the current code is still a WIP.
 
+[demo video](https://infoservicesllc-my.sharepoint.com/:v:/g/personal/balrajhd_infoservices_com/ERgQsRAL6dFGif1voDOSTsgBM-4pCb8vYELnLpW5hYQdlQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sXlWBt)
+
 ## Features
 
 - **Generate API Test Cases**: Based on the provided API details (HTTP method, endpoint, body, etc.), the application generates test cases that are modular, reusable, and follow best practices for API test automation.
@@ -108,6 +110,3 @@ If something goes wrong while generating the test cases, the application will re
     "error": "Failed to generate test cases"
 }
 ```
----
-
-This README provides all the necessary details on how to set up and use the API Test Case Generator, including installation instructions, usage, and code explanation.
