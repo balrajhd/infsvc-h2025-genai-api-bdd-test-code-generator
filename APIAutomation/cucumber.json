@@ -1,0 +1,14 @@
+{
+    "default": {
+        "parallel": 2,
+        "format": [
+            "html:reports/cucumber-report.html"
+        ],
+        "requireModule": [
+            "ts-node/register"
+        ],
+        "require": [
+            "features/step-definitions/*.ts"
+        ]
+    }
+}
