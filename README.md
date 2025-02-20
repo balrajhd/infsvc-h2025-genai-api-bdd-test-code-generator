@@ -111,6 +111,9 @@ If something goes wrong while generating the test cases, the application will re
 }
 ```
 
+## Future Enhancements
+The future enhancements will expand support for additional API testing frameworks and languages while enabling schema validation code generation with user-selected assertion libraries. The system will ensure reliable file generation, producing self-sufficient, executable code without manual modifications. Users will have the flexibility to customize folder structures for organizing generated assets. These improvements aim to streamline testing workflows and enhance adaptability across diverse development environments.
+
 ## Other Resources
 - [REQRES](https://reqres.in/)
 - [JSON to JSON Schema Converter](https://transform.tools/json-to-json-schema)
